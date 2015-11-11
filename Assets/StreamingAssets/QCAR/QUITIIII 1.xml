@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Fondo1" size="500.000000 312.500000" />
+    <ImageTarget name="Shure" size="500.000000 436.647186" />
+    <ImageTarget name="AKG" size="500.000000 437.377686" />
+    <ImageTarget name="Beta98" size="500.000000 500.000000" />
+    <ImageTarget name="AKGC3000" size="1000.000000 1000.000000" />
+  </Tracking>
+</QCARConfig>
